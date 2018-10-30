@@ -1,0 +1,35 @@
+{
+  "Mecuburi": [{
+ 
+  "milho": 8.75,
+  "feijao": 10,
+  "Arroz": 12,
+  "Mapira": 35,
+    "e": "f"
+  }],
+  "Malema": [{
+ 
+  "milho": 8.75,
+  "feijao": 10,
+  "Arroz": 12,
+  "Mapira": 35,
+    "e": "f"
+  }],
+  "Gurue": [{
+ 
+  "milho": 8.75,
+  "feijao": 10,
+  "Arroz": 12,
+  "Mapira": 35,
+    "e": "f"
+  }],
+  "Monapo": [{
+ 
+  "milho": 8.75,
+  "feijao": 10,
+  "Arroz": 12,
+  "Mapira": 35,
+    "e": "f"
+  }],
+  "string": "Hello World"
+}
