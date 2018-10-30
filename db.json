@@ -1,138 +1,32 @@
 {
-  "malema": [
-    {
-      "milho": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "feijao": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "arroz": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "mapira": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    }
+  "malema": [        
+          {"milho": [{"compra": 5.5,"venda": 8.5}]},
+          {"feijao": [{"compra": 5.5, "venda": 8.5}]},
+          {"arroz": [{"compra": 5.5,"venda": 8.5}]},
+          {"mapira": [{"compra": 5.5,"venda": 8.5}]},
+          {"comboio": [{"chegada": "8:00","partida":"8:05"}]}
   ],
   "mecuburi": [
-    {
-      "milho": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "feijao": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "arroz": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "mapira": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    }
+      {"milho": [{"compra": 5.5,"venda": 8.5}]},
+      {"feijao": [{"compra": 5.5, "venda": 8.5}]},
+      {"arroz": [{"compra": 5.5,"venda": 8.5}]},
+      {"mapira": [{"compra": 5.5,"venda": 8.5}]},
+      {"comboio": [{"chegada": "8:00","partida":"8:05"}]}
+   
   ],
   "gurue": [
-    {
-      "milho": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "feijao": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "arroz": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "mapira": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    }
+      {"milho": [{"compra": 5.5,"venda": 8.5}]},
+      {"feijao": [{"compra": 5.5, "venda": 8.5}]},
+      {"arroz": [{"compra": 5.5,"venda": 8.5}]},
+      {"mapira": [{"compra": 5.5,"venda": 8.5}]},
+      {"comboio": [{"chegada": "8:00","partida":"8:05"}]}
+    
   ],
   "monapo": [
-    {
-      "milho": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "feijao": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "arroz": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    },
-    {
-      "mapira": [
-        {
-          "compra": 5.5,
-          "venda": 8.5
-        }
-      ]
-    }
-  ]
+      {"milho": [{"compra": 5.5,"venda": 8.5}]},
+      {"feijao": [{"compra": 5.5, "venda": 8.5}]},
+      {"arroz": [{"compra": 5.5,"venda": 8.5}]},
+      {"mapira": [{"compra": 5.5,"venda": 8.5}]},
+      {"comboio": [{"chegada": "8:00","partida":"8:05"}]}
+    ]
 }
