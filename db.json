@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 4, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "malema": [        
+          {"id":"milho", "compra": 5.5,"venda": 8.5},
+          {"id":"feijao", "compra": 5.5, "venda": 8.5},
+          {"id":"arroz", "compra": 5.5,"venda": 8.5},
+          {"id":"mapira", "compra": 5.5,"venda": 8.5},
+          {"id":"comboio", "chegada": "8:00","partida":"8:05"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "mecuburi": [        
+          {"id":"milho", "compra": 5.5,"venda": 8.5},
+          {"id":"feijao", "compra": 5.5, "venda": 8.5},
+          {"id":"arroz", "compra": 5.5,"venda": 8.5},
+          {"id":"mapira", "compra": 5.5,"venda": 8.5},
+          {"id":"comboio", "chegada": "8:00","partida":"8:05"}
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "gurue": [        
+          {"id":"milho", "compra": 5.5,"venda": 8.5},
+          {"id":"feijao", "compra": 5.5, "venda": 8.5},
+          {"id":"arroz", "compra": 5.5,"venda": 8.5},
+          {"id":"mapira", "compra": 5.5,"venda": 8.5},
+          {"id":"comboio", "chegada": "8:00","partida":"8:05"}
+  ],
+  "monapo": [        
+          {"id":"milho", "compra": 5.5,"venda": 8.5},
+          {"id":"feijao", "compra": 5.5, "venda": 8.5},
+          {"id":"arroz", "compra": 5.5,"venda": 8.5},
+          {"id":"mapira", "compra": 5.5,"venda": 8.5},
+          {"id":"comboio", "chegada": "8:00","partida":"8:05"}
+  ]
 }
